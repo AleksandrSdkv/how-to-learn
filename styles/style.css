@@ -35,7 +35,7 @@
 .header__main-illustration {
     width: 765px;
     height: 608px;
-    /* border: solid 1px red; */
+    border: solid 1px black;
     position: absolute;
     right: 0;
     bottom: 0;
