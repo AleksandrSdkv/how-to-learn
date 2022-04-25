@@ -1,0 +1,7 @@
+.footer__column-item {
+    list-style-type: none;
+}
+
+.footer__column-item :hover {
+    color: #2f80ed;
+}
