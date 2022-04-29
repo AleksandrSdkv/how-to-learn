@@ -64,6 +64,7 @@
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-item/footer__column-item.css);
