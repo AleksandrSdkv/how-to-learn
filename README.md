@@ -1,5 +1,4 @@
-# How-to-learn
-[![Typing SVG](https://project-cards.jtpotatodev.workers.dev/?project=How-to-learn&started=30%20Apr%202022&codename=Alexandr)]
+![Typing SVG](https://project-cards.jtpotatodev.workers.dev/?project=How-to-learn&started=30%20Apr%202022&codename=Alexandr)
 
 - Ссылка на сайт: https://how-to-learn-henna-eight.vercel.app/
 ------
